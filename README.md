@@ -1,4 +1,3 @@
-## Citing
 # Copyright 2022 Huawei Technologies Co., Ltd
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,7 +11,6 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-# ============================================================================
 
 
 ### BibTeX
@@ -24,5 +22,5 @@
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {}
+  howpublished = {\url{https://github.com/Insaniauser/ViPNAS_mindspore}}
  }
